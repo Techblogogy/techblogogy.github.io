@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="100" height="8" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="GameSheet" tilewidth="16" tileheight="16">
+  <image source="../textures/BMB/GameSheet.png" width="128" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="8">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENACAMxMCPoIP95yVSKjZw4eJ6S64kJaTTLqBDY7UN6JA/iPzB4g8Wf0i/BxtbA08=
+  </data>
+ </layer>
+</map>
