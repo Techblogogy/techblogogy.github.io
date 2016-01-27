@@ -1,0 +1,21 @@
+
+.data-block {
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+	min-height: 100vh;
+
+	text-align: center;
+}
+
+#head_block {
+	background-color:#0099CC;
+	color: #fff;
+}
+
+.navbar {
+	margin-bottom: 0px;
+
+	/*border-radius: 0;*/
+	border: none;
+}
