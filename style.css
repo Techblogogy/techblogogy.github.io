@@ -11,11 +11,22 @@
 #head_block {
 	background-color:#0099CC;
 	color: #fff;
+
+	vertical-align: middle;
+}
+
+#projects_block {
+	background-color: #ED8A00;
+	color: #fff;
+}
+
+#projects_block h1 {
+	margin-bottom: 20px;
 }
 
 .navbar {
+	background-color: #fff;
 	margin-bottom: 0px;
 
-	/*border-radius: 0;*/
 	border: none;
 }
