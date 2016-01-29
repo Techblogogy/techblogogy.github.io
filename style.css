@@ -3,7 +3,7 @@
 	padding-top: 100px;
 	padding-bottom: 100px;
 
-	min-height: 100vh;
+	min-height: 100vmin;
 
 	text-align: center;
 }
@@ -18,10 +18,13 @@
 #projects_block {
 	background-color: #ED8A00;
 	color: #fff;
+
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 #projects_block h1 {
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
 
 .navbar {
@@ -29,4 +32,8 @@
 	margin-bottom: 0px;
 
 	border: none;
+}
+
+.thumbnail {
+	min-height: 50vmin;
 }
