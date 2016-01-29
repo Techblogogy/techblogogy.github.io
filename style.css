@@ -37,3 +37,7 @@
 .thumbnail {
 	min-height: 50vmin;
 }
+
+.text-row {
+	margin-top: 20px;
+}
