@@ -3,7 +3,6 @@
 	padding-top: 100px;
 	padding-bottom: 100px;
 
-	min-height: 100vmin;
 
 	text-align: center;
 }
@@ -13,6 +12,16 @@
 	color: #fff;
 
 	vertical-align: middle;
+}
+#head_block .ctr_head {
+	margin-bottom: 80px;
+}
+#head_block a{
+	color: #fff;
+}
+#head_block p {
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 #projects_block {
